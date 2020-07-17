@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: red-shop-register\n"
+"POT-Creation-Date: 2019-04-04 16:04+0300\n"
+"PO-Revision-Date: 2019-04-04 16:06+0300\n"
+"Last-Translator: \n"
+"Language-Team: red-shop-register\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-red-shop-register-activator.php:34
+msgid "Login page"
+msgstr "Вход"
+
+#: includes/class-red-shop-register-activator.php:46
+msgid "Register page"
+msgstr "Регистрация"
+
+#: includes/class-red-shop-register-activator.php:58
+msgid "Confirm email"
+msgstr "Подтверждение email"
+
+#: includes/class-red-shop-register-auth.php:24
+#, php-format
+msgid "Username: %s"
+msgstr "Имя пользователя %s"
+
+#: includes/class-red-shop-register-auth.php:25
+#: includes/class-red-shop-register-auth.php:31
+msgid "Confirm your mail."
+msgstr "Подтвердите вашу почту."
+
+#: includes/class-red-shop-register-auth.php:57
+#: includes/class-red-shop-register-auth.php:63
+#: includes/class-red-shop-register-auth.php:83
+#: includes/class-red-shop-register-auth.php:99
+#: public/class-red-shop-register-public.php:256
+#: public/class-red-shop-register-public.php:261
+msgid "Invalid key"
+msgstr "Не правлиьный ключ подтверждения"
+
+#: includes/class-red-shop-register-auth.php:92
+#: includes/class-red-shop-register-auth.php:96
+msgid "Expired key"
+msgstr "Время действия ссылки истекло"
+
+#: public/class-red-shop-register-public.php:96
+msgid "Fill in the Email field"
+msgstr "Заполните поле email"
+
+#: public/class-red-shop-register-public.php:99
+msgid "Fill in the password field"
+msgstr "Заполните поле пароль"
+
+#: public/class-red-shop-register-public.php:108
+#: public/class-red-shop-register-public.php:121
+msgid "Invalid email or password"
+msgstr "Введен неверный логин или пароль"
+
+#: public/class-red-shop-register-public.php:112
+msgid "Email not confirmed"
+msgstr "Почта не была подтверждена"
+
+#: public/class-red-shop-register-public.php:215
+msgid "Registration is complete. Check your mail for confirmation."
+msgstr ""
+"Регистрация окончена. Письмо для подтверждения почты выслано на ваш email."
+
+#: public/class-red-shop-register-public.php:240
+#: public/class-red-shop-register-public.php:265
+msgid "Email has already been confirmed"
+msgstr "Почта уже была подтверждена"
+
+#: public/class-red-shop-register-public.php:243
+msgid "Check your mail for confirmation."
+msgstr "Пожалуйста, подтвердите email."
+
+#: public/class-red-shop-register-public.php:246
+msgid "Email not register"
+msgstr "Такой почтовый адрес не зарегестрирован на нашем сайте"
+
+#: public/class-red-shop-register-public.php:275
+msgid "Email has been confirmed"
+msgstr "Почта была подтверждена"
+
+#: public/class-red-shop-register-public.php:328
+msgid "Log In"
+msgstr "Вход"
+
+#: public/templates/confirm_page.php:19 public/templates/login_form.php:20
+#: public/templates/register_form.php:20
+msgid "E-mail"
+msgstr "Почта"
+
+#: public/templates/confirm_page.php:25 public/templates/register_form.php:30
+msgid "Send"
+msgstr "Отправить"
+
+#: public/templates/login_form.php:26 public/templates/register_form.php:26
+msgid "Password"
+msgstr "Пароль"
+
+#: public/templates/login_form.php:31
+msgid "Login"
+msgstr "Вход"
+
+#: public/templates/login_form.php:36 public/templates/register_form.php:35
+msgid "You already logged in"
+msgstr "Вы уже вошли на сайт"
